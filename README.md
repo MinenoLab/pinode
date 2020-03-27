@@ -12,6 +12,7 @@ Raspberry Piは耐熱性に優れており,施設園芸環境下で安定した�
 - [PiNode-ハードウェア組立手順書](https://www.minelab.jp/public_data/pinode-hardware.pdf)
     - [PiNode-ケースファイル](https://www.minelab.jp/public_data/pinode-case.zip)
     - [PiNode-基板ガーバファイル](https://www.minelab.jp/public_data/pinode-pcb_1.1.zip)
+    - ※電源として5Vでセンタープラスの[ACアダプタ](http://akizukidenshi.com/catalog/g/gM-07770/)が必要．
 - [PiNode-ソフトウェア設定手順書](https://www.minelab.jp/public_data/pinode-software.pdf)
     - [OSイメージ(Raspbian Stretch Lite)](https://www.minelab.jp/public_data/2018-11-13-raspbian-stretch-lite.img)
     - [PiNodeソフトウェア](https://www.minelab.jp/public_data/pinode-v1.0.2.tar.gz)
